@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comfort Sound</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_chrono_example">ChronoExample</string>
+    <string-array name="tabs">
+        <item>Tab1</item>
+        <item>Tab2</item>
+        <item>Tab3</item>
+    </string-array>
+</resources>
